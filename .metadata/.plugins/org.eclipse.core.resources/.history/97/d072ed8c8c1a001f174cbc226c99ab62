@@ -1,0 +1,9 @@
+package com.example.CHAT.MODELS;
+
+public class Message {
+	
+	private String Name;
+	
+	
+
+}
